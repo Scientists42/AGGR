@@ -1,2 +1,3 @@
 # AGGR
-The code will coming.
+Some basic code.
+More code coming soon!
