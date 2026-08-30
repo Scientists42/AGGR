@@ -1,5 +1,3 @@
-"""AGGR 使用的基础归一化与排名函数。"""
-
 import torch
 import torch.nn.functional as F
 
